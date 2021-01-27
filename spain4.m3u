@@ -1,0 +1,58 @@
+#EXTINF:-1,* www.achoAPPS.com y www.achoTV.com LISTA GRATIS
+https://www.achoAPPS.com
+#EXTINF:-1,Be Mad www.achoAPPS.com
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,Canaria SAT www.achoAPPS.com
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,Divinity www.achoAPPS.com
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,Emporda TV www.achoAPPS.com
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Energy www.achoAPPS.com
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1,ETB Sat www.achoAPPS.com
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,FDF www.achoAPPS.com
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Fight Time www.achoAPPS.com
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1,Ibiza Global TV www.achoAPPS.com
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1,Informacion TV www.achoAPPS.com
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
+#EXTINF:-1,La Otra www.achoAPPS.com
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:-1,La Xarxa www.achoAPPS.com
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lancelot TV www.achoAPPS.com
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1,Lebrija TV www.achoAPPS.com
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,Mola TV www.achoAPPS.com
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1,Navarra TV www.achoAPPS.com
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,RMadrid TV www.achoAPPS.com
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,RTVCE www.achoAPPS.com
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,Telemadrid www.achoAPPS.com
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,TeleSafor www.achoAPPS.com
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,TeleValencia www.achoAPPS.com
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,TV3 www.achoAPPS.com
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,TV3 www.achoAPPS.com
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,TV Galicia America www.achoAPPS.com
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TV Galicia Europa www.achoAPPS.com
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,TVG Xabarin www.achoAPPS.com
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,TV Mediterraneo www.achoAPPS.com
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,Vega Baja TV www.achoAPPS.com
+http://185.29.68.24/tvb.m3u8
